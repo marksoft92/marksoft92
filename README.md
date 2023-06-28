@@ -24,6 +24,19 @@ Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScr
 
 ![Liczba gwiazdek](https://img.shields.io/github/stars/marksoft92?label=Gwiazdki&style=social)
 
+![Forki](https://img.shields.io/github/forks/marksoft92/repo-name?style=social)
+
+![Problemy](https://img.shields.io/github/issues/marksoft92/repo-name)
+
+![Zamknięte problemy](https://img.shields.io/github/issues-closed/marksoft92/repo-name)
+
+![Pull requesty](https://img.shields.io/github/issues-pr/marksoft92/repo-name)
+
+![Zaakceptowane pull requesty](https://img.shields.io/github/issues-pr-closed/marksoft92/repo-name)
+
+
+
+
 ## Kontakt
 
 Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mną skontaktować za pośrednictwem [LinkedIn](https://www.linkedin.com/in/YourProfile) lub odwiedzić [moją stronę internetową](https://www.yourwebsite.com).
