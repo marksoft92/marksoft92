@@ -4,28 +4,29 @@
 
 ## O mnie
 
-Nazywam się [Twoje Imię] i jestem pasjonatem programowania. Specjalizuję się w [Twoje Umiejętności] i uwielbiam tworzyć innowacyjne projekty. Moje zainteresowania obejmują [Dodaj swoje zainteresowania związane z programowaniem].
+Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScript. Jestem pasjonatem tworzenia innowacyjnych projektów i stale rozwijam swoje umiejętności programistyczne. Moje zainteresowania obejmują eksplorację nowych technologii i udział w projektach open source.
 
 ## Moje projekty
 
-### Projekt 1
+### Projekt 1: Nazwa Projektu 1
 
-Opis projektu lub krótki opis, dlaczego jest to wartościowy projekt. Możesz dodać link do repozytorium lub do strony projektu.
+Krótki opis projektu lub dlaczego jest to wartościowy projekt. Możesz dodać link do repozytorium lub do strony projektu.
 
-### Projekt 2
+### Projekt 2: Nazwa Projektu 2
 
-Opis projektu lub krótki opis, dlaczego jest to wartościowy projekt. Możesz dodać link do repozytorium lub do strony projektu.
+Krótki opis projektu lub dlaczego jest to wartościowy projekt. Możesz dodać link do repozytorium lub do strony projektu.
 
 ## Statystyki
 
-![Statystyki aktywności](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Statystyki aktywności](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical)
 
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical)
 
 ## Kontakt
 
-Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mną skontaktować za pośrednictwem [LinkedIn](https://www.linkedin.com/in/YourProfile) lub [mojej strony internetowej](https://www.yourwebsite.com).
+Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mną skontaktować za pośrednictwem [LinkedIn](https://www.linkedin.com/in/YourProfile) lub odwiedzić [moją stronę internetową](https://www.yourwebsite.com).
 
+Dziękuję za odwiedzenie mojego profilu GitHub. Zapraszam do zapoznania się z moimi projektami i statystykami!
 
 
 <!--
