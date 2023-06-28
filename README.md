@@ -1,33 +1,34 @@
 ### Hi there 👋
 
+Oczywiście, tutaj jest zaktualizowana wersja README, która skupia się na wykresach i diagramach:
+
 # Witaj na moim profilu GitHub!
 
 ## O mnie
 
 Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScript. Jestem pasjonatem tworzenia innowacyjnych projektów i stale rozwijam swoje umiejętności programistyczne. Moje zainteresowania obejmują eksplorację nowych technologii i udział w projektach open source.
 
-## Moje projekty
-
-### Projekt 1: Nazwa Projektu 1
-
-Krótki opis projektu lub dlaczego jest to wartościowy projekt. Możesz dodać link do repozytorium lub do strony projektu.
-
-### Projekt 2: Nazwa Projektu 2
-
-Krótki opis projektu lub dlaczego jest to wartościowy projekt. Możesz dodać link do repozytorium lub do strony projektu.
-
 ## Statystyki
 
-![Statystyki aktywności](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical)
+![Statystyki aktywności](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
 
 ![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical)
+
+## Aktywność w projekcie
+
+![Wykres wkładu w projekty](https://github-readme-stats.vercel.app/api/wakatime?username=marksoft92&layout=compact&theme=radical)
+
+## Twój profil
+
+![Liczba obserwujących](https://img.shields.io/github/followers/marksoft92?label=Obserwujący&style=social)
+
+![Liczba gwiazdek](https://img.shields.io/github/stars/marksoft92?label=Gwiazdki&style=social)
 
 ## Kontakt
 
 Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mną skontaktować za pośrednictwem [LinkedIn](https://www.linkedin.com/in/YourProfile) lub odwiedzić [moją stronę internetową](https://www.yourwebsite.com).
 
-Dziękuję za odwiedzenie mojego profilu GitHub. Zapraszam do zapoznania się z moimi projektami i statystykami!
-
+Dziękuję za odwiedzenie mojego profilu GitHub. Zapraszam do zapoznania się z moimi statystykami i aktywnością!
 
 <!--
 **marksoft92/marksoft92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
