@@ -77,7 +77,7 @@ Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mn
 
 Dziękuję za odwiedzenie mojego profilu GitHub. Zapraszam do zapoznania się z moimi statystykami i aktywnością!
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=marksoft92.marksoft92)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=marksoft92)
 
 <!--
 **marksoft92/marksoft92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
