@@ -53,6 +53,15 @@ Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScr
 - ![React Testing Library Badge](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white) Używam React Testing Library do testowania komponentów React, dbając o poprawność i funkcjonalność.
 - ![Canvas Badge](https://img.shields.io/badge/-Canvas-150F1D?logo=html5&logoColor=white) Wykorzystuję HTML5 Canvas do tworzenia dynamicznych grafik i interaktywnych animacji bezpośrednio w przeglądarce.
 
+### Technologie, których się uczę
+
+Aktualnie uczę się nowych technologii i narzędzi, aby poszerzyć moje umiejętności programistyczne. Poniżej znajdziesz listę niektórych z tych technologii oraz projekty, które tworzę w ramach nauki:
+
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Uczę się tworzenia aplikacji przy użyciu Node.js.
+  - Projekt: [AI Node App](https://github.com/marksoft92/ai-node-app)
+
+
+
 ## Kontakt
 
 Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mną skontaktować za pośrednictwem [LinkedIn](https://www.linkedin.com/in/dawid-bie%C5%84kowski/) lub odwiedzić [moją stronę internetową](https://www.code-review.pl).
