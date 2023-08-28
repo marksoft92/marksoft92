@@ -8,10 +8,7 @@ Oczywiście, tutaj jest zaktualizowana wersja README, która skupia się na wykr
 
 Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScript. Jestem pasjonatem tworzenia innowacyjnych projektów i stale rozwijam swoje umiejętności programistyczne. Moje zainteresowania obejmują eksplorację nowych technologii i udział w projektach open source.
 
-### Statystyki aktywności
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 ## Statystyki
