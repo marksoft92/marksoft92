@@ -12,12 +12,8 @@ Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScr
 
 ![Statystyki aktywności](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
 
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical)
-
-
-### Statystyki języków programowania
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=10)](https://github.com/marksoft92)
+
 
 ## Aktywność w projekcie
 
