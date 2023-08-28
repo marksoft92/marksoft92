@@ -59,6 +59,15 @@ Aktualnie uczę się nowych technologii i narzędzi, aby poszerzyć moje umieję
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Uczę się tworzenia aplikacji przy użyciu Node.js.
   - Projekt: [AI Node App](https://github.com/marksoft92/ai-node-app)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Uczę się tworzenia serwerów aplikacyjnych z wykorzystaniem frameworka Express.js.
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) Uczę się budowania stron internetowych przy użyciu frameworka Next.js.
+
+### Certyfikaty
+
+Oto niektóre z certyfikatów, które zdobyłem, potwierdzając moje umiejętności:
+
+- ![Microsoft JavaScript MTA](https://img.shields.io/badge/-Microsoft%20JavaScript%20MTA-0078D4?logo=microsoft&logoColor=white) 
+  - Uzyskałem certyfikat Microsoft JavaScript MTA po zdaniu egzaminu 98-382.
 
 
 
