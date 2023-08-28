@@ -28,8 +28,10 @@ Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScr
 
 ## Umiejętności
 - ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) Posługuję się głównie Reactem w moich projektach.
+- ![React Hooks Badge](https://img.shields.io/badge/-React%20Hooks-61DAFB?logo=react&logoColor=white) Korzystam z hooków reactowych do efektywnego zarządzania stanem i logiką komponentów.
 - ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) Mam duże doświadczenie w zarządzaniu stanem aplikacji przy użyciu Reduxa.
 - ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) Język JavaScript to mój podstawowy narzędzie do tworzenia interaktywnych stron.
+- ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Posługuję się TypeScriptem, co pozwala na tworzenie bardziej bezpiecznego i czytelnego kodu JavaScript.
 - ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) Tworzenie semantycznych struktur HTML to podstawa mojej pracy frontendowej.
 - ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) Tworzenie estetycznych i responsywnych stylów to moja pasja.
 - ![Less Badge](https://img.shields.io/badge/-Less-1D365D?logo=less&logoColor=white) Stosuję Less do tworzenia skalowalnych i modułowych styli, zwiększając czytelność i utrzymanie kodu CSS.
