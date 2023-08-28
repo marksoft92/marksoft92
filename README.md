@@ -14,18 +14,11 @@ Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=10)](https://github.com/marksoft92)
 
-
-## Aktywność w projekcie
-
-![Wykres wkładu w projekty](https://github-readme-stats.vercel.app/api/wakatime?username=marksoft92&layout=compact&theme=radical)
-
 ## Twój profil
 
 ![Liczba obserwujących](https://img.shields.io/github/followers/marksoft92?label=Obserwujący&style=social)
 
 ![Liczba gwiazdek](https://img.shields.io/github/stars/marksoft92?label=Gwiazdki&style=social)
-
-
 
 ## Umiejętności
 - ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) Posługuję się głównie Reactem w moich projektach.
