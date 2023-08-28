@@ -26,20 +26,21 @@ Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScr
 
 ![Forki](https://img.shields.io/github/forks/marksoft92/repo-name?style=social)
 
-![Problemy](https://img.shields.io/github/issues/marksoft92/repo-name)
 
-![Zamknięte problemy](https://img.shields.io/github/issues-closed/marksoft92/repo-name)
+## Umiejętności
 
-![Pull requesty](https://img.shields.io/github/issues-pr/marksoft92/repo-name)
 
-![Zaakceptowane pull requesty](https://img.shields.io/github/issues-pr-closed/marksoft92/repo-name)
-
+**Badge'y umiejętności**:
+    - **Badge React**: Posługuję się głównie Reactem w moich projektach. 
+    [![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+    - **Badge Redux**: Mam duże doświadczenie w zarządzaniu stanem aplikacji przy użyciu Reduxa. 
+    [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 
 
 
 ## Kontakt
 
-Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mną skontaktować za pośrednictwem [LinkedIn](https://www.linkedin.com/in/YourProfile) lub odwiedzić [moją stronę internetową](https://www.yourwebsite.com).
+Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mną skontaktować za pośrednictwem [LinkedIn](https://www.linkedin.com/in/dawid-bie%C5%84kowski/) lub odwiedzić [moją stronę internetową](https://www.code-review.pl).
 
 Dziękuję za odwiedzenie mojego profilu GitHub. Zapraszam do zapoznania się z moimi statystykami i aktywnością!
 
