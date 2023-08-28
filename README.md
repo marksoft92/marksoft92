@@ -54,6 +54,7 @@ Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScr
 - ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) Wykorzystuję Jest do testowania kodu JavaScript i React, zapewniając wysoką jakość aplikacji.
 - ![Lodash Badge](https://img.shields.io/badge/-Lodash-14A800?logo=lodash&logoColor=white) Stosuję Lodash do efektywnego przetwarzania i manipulacji danymi, oszczędzając czas i zasoby.
 - ![React Testing Library Badge](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white) Używam React Testing Library do testowania komponentów React, dbając o poprawność i funkcjonalność.
+- ![Canvas Badge](https://img.shields.io/badge/-Canvas-150F1D?logo=html5&logoColor=white) Wykorzystuję HTML5 Canvas do tworzenia dynamicznych grafik i interaktywnych animacji bezpośrednio w przeglądarce.
 
 ## Kontakt
 
