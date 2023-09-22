@@ -75,7 +75,7 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 Currently, I am learning new technologies and tools to expand my programming skills. Below you will find a list of some of these technologies and projects I am working on as part of my learning:
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) I am learning to create applications using Node.js.
-  - Project: [AI Node App](https://github.com/marksoft92/ai-node-app)
+  - Project: [AI Node App](https://github.com/marksoft92/mmorpg-game-backend)
 - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) I am learning to create application servers using the Express.js framework.
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) I am learning to build websites using the Next.js framework.
 
