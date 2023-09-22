@@ -41,7 +41,6 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 - ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) Crafting aesthetic and responsive styles is my passion.
 - ![Less Badge](https://img.shields.io/badge/-Less-1D365D?logo=less&logoColor=white) I use Less to create scalable and modular styles, improving CSS code readability and maintainability.
 - ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) I utilize Sass to create advanced styles that are easy to manage and maintain.
-- ![Preact Badge](https://img.shields.io/badge/-Preact-673AB8?logo=preact&logoColor=white) Preact is a fast, lightweight, and minimalistic JavaScript library for building user interfaces. It's compatible with React and is often used for projects where performance is critical.
 - ![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white) I use Styled Components to create modular and aesthetic styles that are easy to manage.
 - ![Day.js Badge](https://img.shields.io/badge/-Day.js-F9C300?logo=javascript&logoColor=white) I use Day.js for efficient date and time processing and manipulation.
 - ![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white) I use jQuery for efficient manipulation of HTML elements and event handling.
