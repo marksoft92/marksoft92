@@ -1,82 +1,96 @@
 ### Hi there 👋
 
-Oczywiście, tutaj jest zaktualizowana wersja README, która skupia się na wykresach i diagramach:
+Of course, here's an updated README that focuses on charts and diagrams:
 
-# Witaj na moim profilu GitHub!
+# Welcome to My GitHub Profile!
 
-## O mnie
+## About Me
 
-Nazywam się Dawid i jestem programistą specjalizującym się w React i JavaScript. Jestem pasjonatem tworzenia innowacyjnych projektów i stale rozwijam swoje umiejętności programistyczne. Moje zainteresowania obejmują eksplorację nowych technologii i udział w projektach open source.
+My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm passionate about creating innovative projects and constantly expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
+
+## Statistics
+
+![Activity Statistics](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=10)](https://github.com/marksoft92)
+
+## Your Profile
+
+![Followers Count](https://img.shields.io/github/followers/marksoft92?label=Followers&style=social)
+
+![Stars Count](https://img.shields.io/github/stars/marksoft92?label=Stars&style=social)
+
+## Skills
+
+### Servers\Budler:
+- ![npm Badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) I manage project dependencies using the npm package manager, allowing for efficient module management.
+- ![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white) I use Yarn for quick and reliable package installation and management in projects.
+- ![Webpack Badge](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white) I configure and manage projects using Webpack, optimizing resources and performance.
+- ![Babel Badge](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white) I use Babel to transpile JavaScript code to earlier versions, providing support for various browsers.
 
 
+### Front-end
+- ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) JavaScript is my primary tool for creating interactive web pages.
+- ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) I use TypeScript for writing safer and more readable JavaScript code.
+- ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) I primarily use React in my projects.
+- ![React Hooks Badge](https://img.shields.io/badge/-React%20Hooks-61DAFB?logo=react&logoColor=white) I use React hooks for efficient state management and component logic.
+- ![Redux Saga Badge](https://img.shields.io/badge/-Redux%20Saga-999999?logo=redux-saga&logoColor=white) I use Redux Saga to handle complex asynchronous operations such as network requests and state synchronization.
+- ![React Router Badge](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) I create navigation and routing in React applications, ensuring smooth transitions between views.
+- ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) I have extensive experience in managing application state using Redux.
+- ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) Creating semantic HTML structures is the foundation of my frontend work.
+- ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) Crafting aesthetic and responsive styles is my passion.
+- ![Less Badge](https://img.shields.io/badge/-Less-1D365D?logo=less&logoColor=white) I use Less to create scalable and modular styles, improving CSS code readability and maintainability.
+- ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) I utilize Sass to create advanced styles that are easy to manage and maintain.
+- ![Preact Badge](https://img.shields.io/badge/-Preact-673AB8?logo=preact&logoColor=white) Preact is a fast, lightweight, and minimalistic JavaScript library for building user interfaces. It's compatible with React and is often used for projects where performance is critical.
+- ![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white) I use Styled Components to create modular and aesthetic styles that are easy to manage.
+- ![Day.js Badge](https://img.shields.io/badge/-Day.js-F9C300?logo=javascript&logoColor=white) I use Day.js for efficient date and time processing and manipulation.
+- ![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white) I use jQuery for efficient manipulation of HTML elements and event handling.
+- ![Lodash Badge](https://img.shields.io/badge/-Lodash-14A800?logo=lodash&logoColor=white) I use Lodash for efficient data processing and manipulation, saving time and resources.
+- ![Canvas Badge](https://img.shields.io/badge/-Canvas-150F1D?logo=html5&logoColor=white) I use HTML5 Canvas to create dynamic graphics and interactive animations directly in the browser.
+
+#### UI
+- ![Material-UI Badge](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white) Material-UI is a popular React component library that provides pre-designed UI components following the Material Design guidelines. It simplifies the process of creating attractive and responsive user interfaces.
+- ![Ant Design Badge](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white) I use Ant Design to quickly create aesthetic and responsive user interfaces.
 
 
-## Statystyki
+##### Testing
+- ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) I use Jest to test JavaScript and React code, ensuring high application quality.
+- ![React Testing Library Badge](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white) I use React Testing Library to test React components, ensuring correctness and functionality.
 
-![Statystyki aktywności](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
+#### Back-end
+- ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) I create SSR and SSG applications using Next.js to improve performance and SEO.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=10)](https://github.com/marksoft92)
 
-## Twój profil
+#### IDE 
+- ![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) I use the Visual Studio Code development environment for efficient code writing, debugging, and refactoring.
+- ![PhpStorm Badge](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white) I use PhpStorm as my development environment for efficient project creation and management.
 
-![Liczba obserwujących](https://img.shields.io/github/followers/marksoft92?label=Obserwujący&style=social)
+#### VCS
 
-![Liczba gwiazdek](https://img.shields.io/github/stars/marksoft92?label=Gwiazdki&style=social)
+- ![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) I use the Git version control system to efficiently track code changes and collaborate with teams.
+- ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) I collaborate on projects using the GitHub platform, managing source code and sharing ideas.
 
-## Umiejętności
-- ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) Posługuję się głównie Reactem w moich projektach.
-- ![React Hooks Badge](https://img.shields.io/badge/-React%20Hooks-61DAFB?logo=react&logoColor=white) Korzystam z hooków reactowych do efektywnego zarządzania stanem i logiką komponentów.
-- ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) Mam duże doświadczenie w zarządzaniu stanem aplikacji przy użyciu Reduxa.
-- ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) Język JavaScript to mój podstawowy narzędzie do tworzenia interaktywnych stron.
-- ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Posługuję się TypeScriptem, co pozwala na tworzenie bardziej bezpiecznego i czytelnego kodu JavaScript.
-- ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) Tworzenie semantycznych struktur HTML to podstawa mojej pracy frontendowej.
-- ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) Tworzenie estetycznych i responsywnych stylów to moja pasja.
-- ![Less Badge](https://img.shields.io/badge/-Less-1D365D?logo=less&logoColor=white) Stosuję Less do tworzenia skalowalnych i modułowych styli, zwiększając czytelność i utrzymanie kodu CSS.
-- ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) Korzystam z Sass do tworzenia zaawansowanych stylów, które są łatwe do zarządzania i konserwacji.
-- ![Webpack Badge](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white) Konfiguruję i zarządzam projektami przy użyciu Webpacka, optymalizując zasoby i wydajność.
-- ![React Router Badge](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) Tworzę nawigację i routing w aplikacjach React, zapewniając płynne przejścia między widokami.
-- ![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Korzystam z systemu kontroli wersji Git do efektywnego śledzenia zmian w kodzie i współpracy w zespole.
-- ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) Współpracuję na projektach przy użyciu platformy GitHub, zarządzając kodem źródłowym i wymianą pomysłów.
-- ![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) Używam środowiska programistycznego Visual Studio Code do efektywnego pisania, debugowania i refaktoryzacji kodu.
-- ![PhpStorm Badge](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white) Korzystam z PhpStorm jako środowiska programistycznego do efektywnego tworzenia i zarządzania projektem.
-- ![npm Badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) Zarządzam zależnościami projektu przy użyciu menedżera pakietów npm, umożliwiającego efektywne zarządzanie modułami.
-- ![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white) Wykorzystuję Yarn do szybkiego i niezawodnego instalowania oraz zarządzania pakietami w projekcie.
-- ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) Tworzę aplikacje SSR i SSG przy użyciu Next.js, aby poprawić wydajność i SEO aplikacji.
-- ![Redux Saga Badge](https://img.shields.io/badge/-Redux%20Saga-999999?logo=redux-saga&logoColor=white) Korzystam z Redux Saga do obsługi skomplikowanych operacji asynchronicznych, takich jak żądania sieciowe i synchronizacja stanu.
-- ![Ant Design Badge](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white) Wykorzystuję Ant Design do szybkiego tworzenia estetycznych i responsywnych interfejsów użytkownika.
-- ![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white) Stosuję Styled Components do tworzenia modularnych i estetycznych styli, które są łatwe do zarządzania.
-- ![Day.js Badge](https://img.shields.io/badge/-Day.js-F9C300?logo=javascript&logoColor=white) Używam Day.js do skutecznego przetwarzania i manipulacji datami i czasem.
-- ![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white) Posługuję się jQuery do wydajnej manipulacji elementami HTML i obsługi zdarzeń.
-- ![Babel Badge](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white) Używam Babela do transpilacji kodu JavaScript na poprzednie wersje, zapewniając wsparcie dla różnych przeglądarek.
-- ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) Wykorzystuję Jest do testowania kodu JavaScript i React, zapewniając wysoką jakość aplikacji.
-- ![Lodash Badge](https://img.shields.io/badge/-Lodash-14A800?logo=lodash&logoColor=white) Stosuję Lodash do efektywnego przetwarzania i manipulacji danymi, oszczędzając czas i zasoby.
-- ![React Testing Library Badge](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white) Używam React Testing Library do testowania komponentów React, dbając o poprawność i funkcjonalność.
-- ![Canvas Badge](https://img.shields.io/badge/-Canvas-150F1D?logo=html5&logoColor=white) Wykorzystuję HTML5 Canvas do tworzenia dynamicznych grafik i interaktywnych animacji bezpośrednio w przeglądarce.
+### Technologies I'm Learning
 
-### Technologie, których się uczę
+Currently, I am learning new technologies and tools to expand my programming skills. Below you will find a list of some of these technologies and projects I am working on as part of my learning:
 
-Aktualnie uczę się nowych technologii i narzędzi, aby poszerzyć moje umiejętności programistyczne. Poniżej znajdziesz listę niektórych z tych technologii oraz projekty, które tworzę w ramach nauki:
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) I am learning to create applications using Node.js.
+  - Project: [AI Node App](https://github.com/marksoft92/ai-node-app)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) I am learning to create application servers using the Express.js framework.
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) I am learning to build websites using the Next.js framework.
 
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Uczę się tworzenia aplikacji przy użyciu Node.js.
-  - Projekt: [AI Node App](https://github.com/marksoft92/ai-node-app)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Uczę się tworzenia serwerów aplikacyjnych z wykorzystaniem frameworka Express.js.
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) Uczę się budowania stron internetowych przy użyciu frameworka Next.js.
+### Certificates
 
-### Certyfikaty
-
-Oto niektóre z certyfikatów, które zdobyłem, potwierdzając moje umiejętności:
+Here are some of the certificates I have earned, confirming my skills:
 
 - ![Microsoft JavaScript MTA](https://img.shields.io/badge/-Microsoft%20JavaScript%20MTA-0078D4?logo=microsoft&logoColor=white) 
-  - Uzyskałem certyfikat Microsoft JavaScript MTA po zdaniu egzaminu 98-382.
+  - I obtained the Microsoft JavaScript MTA certificate after passing the 98-382 exam.
 
+## Contact
 
+If you are interested in collaboration or have any questions, you can reach out to me through [LinkedIn](https://www.linkedin.com/in/dawid-bie%C5%84kowski/) or visit [my website](https://www.code-review.pl).
 
-## Kontakt
-
-Jeśli jesteś zainteresowany współpracą lub masz pytania, możesz się ze mną skontaktować za pośrednictwem [LinkedIn](https://www.linkedin.com/in/dawid-bie%C5%84kowski/) lub odwiedzić [moją stronę internetową](https://www.code-review.pl).
-
-Dziękuję za odwiedzenie mojego profilu GitHub. Zapraszam do zapoznania się z moimi statystykami i aktywnością!
-
+Thank you for visiting my GitHub profile. Feel free to explore my statistics and activity!
 
 <!--
 **marksoft92/marksoft92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
