@@ -22,7 +22,7 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 
 ## Skills
 
-### Servers\Budler:
+### Servers\Bundler:
 - ![npm Badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) I manage project dependencies using the npm package manager, allowing for efficient module management.
 - ![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white) I use Yarn for quick and reliable package installation and management in projects.
 - ![Webpack Badge](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white) I configure and manage projects using Webpack, optimizing resources and performance.
