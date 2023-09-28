@@ -23,7 +23,7 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 
 ![Stars Count](https://img.shields.io/github/stars/marksoft92?label=Stars&style=social)
 
-## Skills <img src="https://img.icons8.com/color/48/000000/code.png" width="30" height="30" style="position:relative; top:-10px;">
+## Skills <img src="https://img.icons8.com/color/48/000000/code.png" width="30" height="30" style="position:relative; top:10px;">
 
 ### Servers\Bundler: <img src="https://img.icons8.com/color/48/000000/hammer.png" width="30" height="30">
 - ![npm Badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) I manage project dependencies using the npm package manager, allowing for efficient module management.
