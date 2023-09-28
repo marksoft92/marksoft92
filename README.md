@@ -2,7 +2,8 @@
 
 Of course, here's an updated README that focuses on charts and diagrams:
 
-# Welcome to My GitHub Profile! ![Ikona GitHuba](https://github.com/github.png)
+# Welcome to My GitHub Profile! ## <img src="https://github.com/github.png" width="30" height="30"> Witaj na moim profilu GitHub
+
 
 
 ## About Me 🌍
