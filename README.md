@@ -8,6 +8,18 @@ Of course, here's an updated README that focuses on charts and diagrams:
 
 My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm passionate about creating innovative projects and constantly expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
 
+
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53.430181!2d14.549766!3dYOUR_ZOOM_LEVEL!4sSzczecin!5e0!3m2!1sen!2spl!4vYOUR_MAP_VERSION!5m2!1sen!2spl"
+  width="600"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+></iframe>
+
+🌍 Jestem tutaj w Szczecinie, Polska!
 ## Statistics
 
 ![Activity Statistics](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
