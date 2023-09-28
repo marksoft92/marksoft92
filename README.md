@@ -11,7 +11,7 @@ Of course, here's an updated README that focuses on charts and diagrams:
 My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm passionate about creating innovative projects and constantly expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
 
 
-## Statistics  <img src="[https://github.com/github.png](https://img.icons8.com/dusk/64/000000/statistics.png)" width="30" height="30"> 
+## Statistics  <img src="https://img.icons8.com/dusk/64/000000/statistics.png" width="30" height="30" > 
 
 ![Activity Statistics](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
 
@@ -23,7 +23,7 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 
 ![Stars Count](https://img.shields.io/github/stars/marksoft92?label=Stars&style=social)
 
-## Skills <img src="https://img.icons8.com/color/48/000000/code.png" width="30" height="30">
+## Skills <img src="https://img.icons8.com/color/48/000000/code.png" width="30" height="30" style="position:relative; top:-10px;">
 
 ### Servers\Bundler: <img src="https://img.icons8.com/color/48/000000/hammer.png" width="30" height="30">
 - ![npm Badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) I manage project dependencies using the npm package manager, allowing for efficient module management.
