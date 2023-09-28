@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src=" https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" width="30" height="30" style="position:relative; top:5px;"> 
 
 Of course, here's an updated README that focuses on charts and diagrams:
 
