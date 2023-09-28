@@ -1,5 +1,5 @@
 ### - Hello There  <img src="https://cdn3.iconfinder.com/data/icons/space-war-4/512/lightsaber-sword-weapon-space-war-512.png" width="30" height="30" style="position:relative; top:5px;"> <img src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png" width="30" height="30" style="position:relative; top:5px;"> 
-### - General Kenobi  <img src="https://cdn4.iconfinder.com/data/icons/smashicons-movies-cartoony/56/15_-_Grievous_movie_film_cinema_video_-512.png" width="40" height="40" style="position:relative; top:5px;">
+### - General Kenobi  <img src="https://cdn4.iconfinder.com/data/icons/smashicons-movies-cartoony/56/15_-_Grievous_movie_film_cinema_video_-512.png" width="40" height="40" style="position:relative; top:10px;">
 
 Of course, here's an updated README that focuses on charts and diagrams:
 
