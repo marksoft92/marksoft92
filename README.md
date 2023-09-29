@@ -4,28 +4,28 @@
 I'm a programmer with a passion for building applications and solving problems. Here, you'll find information about the tools and technologies I use for app development, statistics that showcase leading technologies, and my programming skills.
 Feel free to explore my profile to learn more about my work and projects.
 
-# Welcome to My GitHub Profile!  <img src="https://github.com/github.png" width="30" height="30">
+# Welcome to My GitHub Profile!
 
 
 
-## About Me 🌍
+## About Me 
 
 My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm passionate about creating innovative projects and constantly expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
 
 
-## Statistics  <img src="https://img.icons8.com/dusk/64/000000/statistics.png" width="30" height="30" style="position:relative; top:5px;"> 
+## <img src="https://img.icons8.com/dusk/64/000000/statistics.png" width="30" height="30" style="position:relative; top:5px;">  Statistics
 
 ![Activity Statistics](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=10)](https://github.com/marksoft92)
 
-## Your Profile <img src="https://img.icons8.com/color/48/000000/github.png" width="30" height="30" style="position:relative; top:5px;">
+## <img src="https://img.icons8.com/color/48/000000/github.png" width="30" height="30" style="position:relative; top:5px;"> Your Profile
 
 ![Followers Count](https://img.shields.io/github/followers/marksoft92?label=Followers&style=social)
 
 ![Stars Count](https://img.shields.io/github/stars/marksoft92?label=Stars&style=social)
 
-## Skills <img src="https://img.icons8.com/color/48/000000/code.png" width="30" height="30" style="position:relative; top:5px;">
+## <img src="https://img.icons8.com/color/48/000000/code.png" width="30" height="30" style="position:relative; top:5px;"> Skills
 
 ### Servers\Bundler: <img src="https://img.icons8.com/color/48/000000/hammer.png" width="30" height="30" style="position:relative; top:5px;">
 - ![npm Badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) I manage project dependencies using the npm package manager, allowing for efficient module management.
