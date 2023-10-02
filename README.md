@@ -95,8 +95,7 @@ If you are interested in collaboration or have any questions, you can reach out 
 Thank you for visiting my GitHub profile. Feel free to explore my statistics and activity!
 
 <!--
-**marksoft92/marksoft92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**marksoft92/marksoft92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
