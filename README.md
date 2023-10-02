@@ -7,7 +7,6 @@ Feel free to explore my profile to learn more about my work and projects.
 # Welcome to My GitHub Profile!
 
 
-
 ## About Me 
 
 My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm passionate about creating innovative projects and constantly expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
