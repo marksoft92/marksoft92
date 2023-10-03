@@ -33,6 +33,7 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 - ![Babel Badge](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white) I use Babel to transpile JavaScript code to earlier versions, providing support for various browsers.
 
 
+
 ### <img src="https://img.icons8.com/color/48/000000/web.png" width="30" height="30" style="position:relative; top:5px;"> Front-end
 - ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) JavaScript is my primary tool for creating interactive web pages.
 - ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) I use TypeScript for writing safer and more readable JavaScript code.
@@ -51,9 +52,11 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 - ![Lodash Badge](https://img.shields.io/badge/-Lodash-14A800?logo=lodash&logoColor=white) I use Lodash for efficient data processing and manipulation, saving time and resources.
 - ![Canvas Badge](https://img.shields.io/badge/-Canvas-150F1D?logo=html5&logoColor=white) I use HTML5 Canvas to create dynamic graphics and interactive animations directly in the browser.
 
+
 #### <img src="https://img.icons8.com/color/48/000000/paint-palette.png" width="30" height="30" style="position:relative; top:5px;"> UI
 - ![Material-UI Badge](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white) Material-UI is a popular React component library that provides pre-designed UI components following the Material Design guidelines. It simplifies the process of creating attractive and responsive user interfaces.
 - ![Ant Design Badge](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white) I use Ant Design to quickly create aesthetic and responsive user interfaces.
+
 
 
 ##### <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="30" height="30" style="position:relative; top:5px;"> Testing
@@ -72,9 +75,12 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 - ![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) I use the Git version control system to efficiently track code changes and collaborate with teams.
 - ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) I collaborate on projects using the GitHub platform, managing source code and sharing ideas.
 
+
 ### <img src="https://img.icons8.com/color/48/000000/open-book.png" width="30" height="30" style="position:relative; top:5px;"> Technologies I'm Learning
 
+
 Currently, I am learning new technologies and tools to expand my programming skills. Below you will find a list of some of these technologies and projects I am working on as part of my learning:
+
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) I am learning to create applications using Node.js.
   - Project: [MMO-RPG 2D GAME](https://github.com/marksoft92/mmorpg-game-backend)
