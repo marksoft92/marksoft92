@@ -9,6 +9,7 @@ Feel free to explore my profile to learn more about my work and projects.
 
 ## About Me 
 
+
 My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm passionate about creating innovative projects and constantly expanding my programming skills. My interests include exploring new technologies and contributing to open-source projects.
 
 ## <img src="https://img.icons8.com/dusk/64/000000/statistics.png" width="30" height="30" style="position:relative; top:5px;">  Statistics
