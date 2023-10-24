@@ -17,7 +17,7 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 
 ![Activity Statistics](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=10)](https://github.com/marksoft92)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=100)](https://github.com/marksoft92)
 
 ## <img src="https://img.icons8.com/color/48/000000/github.png" width="30" height="30" style="position:relative; top:5px;"> Your Profile
 
