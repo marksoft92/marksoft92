@@ -15,9 +15,12 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 
 ## <img src="https://img.icons8.com/dusk/64/000000/statistics.png" width="30" height="30" style="position:relative; top:5px;">  Statistics
 
-![Activity Statistics](https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=100)](https://github.com/marksoft92)
+<a href="https://github.com/OleksiiFursov](https://github.com/marksoft92)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marksoft92&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://github.com/marksoft92)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marksoft92&layout=compact&theme=radical&langs_count=10" />
+</a>
 
 ## <img src="https://img.icons8.com/color/48/000000/github.png" width="30" height="30" style="position:relative; top:5px;"> Your Profile
 
