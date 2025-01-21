@@ -67,7 +67,7 @@ My name is Dawid, and I'm a programmer specializing in React and JavaScript. I'm
 - ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) I use Jest to test JavaScript and React code, ensuring high application quality.
 - ![React Testing Library Badge](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white) I use React Testing Library to test React components, ensuring correctness and functionality.
 
-#### <img src="https://img.icons8.com/color/48/000000/server.png" width="30" height="30" style="position:relative; top:5px;"> Back-end
+#### <img src="https://img.icons8.com/color/48/000000/server.png" width="30" height="30" style="position:relative; top:5px;"> B/F
 - ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) I create SSR and SSG applications using Next.js to improve performance and SEO.
 
 
@@ -87,10 +87,8 @@ Currently, I am learning new technologies and tools to expand my programming ski
 
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) I am learning to create applications using Node.js.
-  - Project: [MMO-RPG 2D GAME](https://github.com/marksoft92/mmorpg-game-backend)
 - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) I am learning to create application servers using the Express.js framework.
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) I am learning to build websites using the Next.js framework.
-  - Project: [NEXT-13/14 APP SAAS](https://github.com/marksoft92/football-team-saas-app)
 
 ### <img src="https://img.icons8.com/color/48/000000/certificate.png" width="30" height="30" style="position:relative; top:5px;"> Certificates
 
